@@ -1,1 +1,1 @@
-"# weezer" 
+weezercraft.xyz domain
